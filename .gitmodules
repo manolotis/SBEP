@@ -1,0 +1,3 @@
+[submodule "MotionCNN"]
+	path = MotionCNN
+	url = git@github.com:manolotis/MotionCNN.git

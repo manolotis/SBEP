@@ -1,0 +1,4 @@
+/data/
+.idea/
+/WaymoClassification/venv/
+*/__pycache__/
