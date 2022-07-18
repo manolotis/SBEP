@@ -1,6 +1,6 @@
 # SBEP
 
-This repository constains the code for Muñoz Sánchez et al. "Scenario-based Evaluation of Prediction Models for
+This repository contains the code for Muñoz Sánchez et al. "Scenario-based Evaluation of Prediction Models for
 Automated Vehicles" accepted for publication in ITSC 2022. At the moment the tags are derived using individual trajectories only. In the future this will be extended to more complex scenarios (e.g. pedestrian crossing at non-designated crossing).
 
 ## Installation ##
